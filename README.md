@@ -1,0 +1,2 @@
+# rnaksat
+Mavi tik 
